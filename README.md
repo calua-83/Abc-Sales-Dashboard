@@ -4,6 +4,7 @@
 
 ## Landing Page: Project Overview
 
+
 ### Welcome to the Sales Analysis Dashboard
 
 ABC Pharmaceutical Company operates in a highly competitive and regulated market, where understanding sales dynamics and customer behavior is essential for success. This dashboard provides a comprehensive, data-driven approach to uncovering key insights and improving decision-making.
