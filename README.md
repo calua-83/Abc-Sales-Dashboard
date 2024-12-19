@@ -26,10 +26,9 @@ ABC Pharmaceutical Company operates in a highly competitive and regulated market
 Use the links below to navigate through the dashboard:
 
 - **Sales Trends**: Visualize temporal sales patterns and key KPIs.
-  
-![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC_pharma_%20saletrends.png?raw=true)
-
+  ![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC_pharma_%20saletrends.png?raw=true)
 - **Customer Segmentation**: Discover insights into customer demographics and purchasing behaviors.
+- ![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/Customer_segment.png?raw=true)
 - **Regional Analysis**: Examine sales performance by geography and region.
 - **Product Analysis**: Evaluate product performance metrics and correlations.
 - **Channel Performance**: Compare sales performance across distribution channels.
