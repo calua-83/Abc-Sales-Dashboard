@@ -2,7 +2,8 @@
 
 ## Landing Page: Project Overview
 
-
+  ![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC%20Pharm%20project%20overview.png?raw=true)
+  
 ### Welcome to the Sales Analysis Dashboard
 
 ABC Pharmaceutical Company operates in a highly competitive and regulated market, where understanding sales dynamics and customer behavior is essential for success. This dashboard provides a comprehensive, data-driven approach to uncovering key insights and improving decision-making.
