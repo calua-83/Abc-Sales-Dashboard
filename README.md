@@ -1,5 +1,3 @@
-# Abc-Sales-Dashboard
-
 # ABC Pharmaceutical Sales Analysis Dashboard
 
 ## Landing Page: Project Overview
