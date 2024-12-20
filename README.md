@@ -71,6 +71,7 @@ Use the links below to navigate through the dashboard:
 ---
 
 ## Key Insights
+ **Sales Trends:**
 - Sales peaks are observed during Q2 and Q4, aligning with seasonal demand.
 - Yearly Trends:
 o	2017: Total sales were approximately 2.7 billion.
