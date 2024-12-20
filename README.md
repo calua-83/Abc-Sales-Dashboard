@@ -71,7 +71,11 @@ Use the links below to navigate through the dashboard:
 ---
 
 ## Key Insights
-
+- Sales peaks are observed during Q2 and Q4, aligning with seasonal demand.
+- Yearly Trends:
+o	2017: Total sales were approximately 2.7 billion.
+o	2018: A notable increase to 3.5 billion.
+o	2019 and 2020: Sales dropped to around 2.9 billion and 2.6 billion, respectively, suggesting external factors like market changes or operational challenges.
 
 ---
 
