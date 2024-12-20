@@ -14,7 +14,6 @@
 ---
 
 ## Landing Page: Project Overview
-
 ![Project Overview](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC%20Pharm%20project%20overview.png?raw=true)
 
 ### Welcome to the Sales Analysis Dashboard
