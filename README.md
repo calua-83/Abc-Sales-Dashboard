@@ -1,16 +1,29 @@
 # ABC Pharmaceutical Sales Analysis Dashboard
 
+## Table of Contents
+
+1. [Introduction](#landing-page-project-overview)
+2. [Data Summary](#tools-used)
+3. [Methodologies](#how-to-use-this-dashboard)
+4. [Key Findings](#key-insights)
+5. [Business Recommendations](#recommendations)
+6. [Usage](#how-to-use-this-dashboard)
+7. [Data Sources](#tools-used)
+8. [License](#license)
+
+---
+
 ## Landing Page: Project Overview
 
-  ![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC%20Pharm%20project%20overview.png?raw=true)
-  
+![Project Overview](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC%20Pharm%20project%20overview.png?raw=true)
+
 ### Welcome to the Sales Analysis Dashboard
 
 ABC Pharmaceutical Company operates in a highly competitive and regulated market, where understanding sales dynamics and customer behavior is essential for success. This dashboard provides a comprehensive, data-driven approach to uncovering key insights and improving decision-making.
 
 ---
 
-### Dashboard Objectives
+## Dashboard Objectives
 
 1. **Uncover Sales Trends**: Explore sales patterns over time, including peak periods and dips.
 2. **Understand Customer Segmentation**: Identify and analyze customer types and behaviors.
@@ -21,27 +34,28 @@ ABC Pharmaceutical Company operates in a highly competitive and regulated market
 
 ---
 
-### Navigation Guide
+## Navigation Guide
 
 Use the links below to navigate through the dashboard:
 
 - **Sales Trends**: Visualize temporal sales patterns and key KPIs.
-  ![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC_pharma_%20saletrends.png?raw=true)
-  
-- **Customer Segmentation**: Discover insights into customer demographics and purchasing behaviors.
-- ![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/Customer_segment.png?raw=true)
-  
-- **Regional Analysis**: Examine sales performance by geography and region.
-  
-- **Product Analysis**: Evaluate product performance metrics and sales team performance.
-- ![](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/sales%20team%20and%20product%20performance.png?raw=true)
+  ![Sales Trends](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/ABC_pharma_%20saletrends.png?raw=true)
 
-  - **Channel Performance**: Compare sales performance across distribution channels.
+- **Customer Segmentation**: Discover insights into customer demographics and purchasing behaviors.
+  ![Customer Segmentation](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/Customer_segment.png?raw=true)
+
+- **Regional Analysis**: Examine sales performance by geography and region.
+
+- **Product Analysis**: Evaluate product performance metrics and sales team performance.
+  ![Product Analysis](https://github.com/calua-83/Abc-Sales-Dashboard/blob/main/sales%20team%20and%20product%20performance.png?raw=true)
+
+- **Channel Performance**: Compare sales performance across distribution channels.
+
 - **Insights and Recommendations**: View actionable insights and strategies for improvement.
 
 ---
 
-### Tools Used
+## Tools Used
 
 - **Data Visualization**: Power BI
 - **Data Analysis**: Python, SQL, Geospatial Analysis
@@ -49,7 +63,7 @@ Use the links below to navigate through the dashboard:
 
 ---
 
-### How to Use This Dashboard
+## How to Use This Dashboard
 
 1. **Explore Interactive Visuals**: Use filters and slicers to customize the data view.
 2. **Drill-Through Options**: Click on visuals to access detailed data.
@@ -57,14 +71,21 @@ Use the links below to navigate through the dashboard:
 
 ---
 
-### Key Questions Answered
+## Key Insights
 
-1. What are the seasonal trends in sales?
-2. How do urban and rural areas differ in sales performance?
-3. Which products and channels are the most effective?
-4. What actionable steps can improve overall sales and efficiency?
+
+---
+
+## Recommendations
+
+
 
 ---
 
 Start exploring now to uncover valuable insights and drive success in the pharmaceutical market!
 
+---
+
+## License
+
+This dashboard and its contents are licensed under [Your Chosen License].
